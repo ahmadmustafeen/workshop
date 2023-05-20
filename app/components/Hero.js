@@ -4,7 +4,7 @@ export default function Hero() {
   return (
     <div className="w-full h-screen bg-heroBG flex flex-col justify-center items-center relative">
       <h2 className="text-lg md:text-3xl z-10">Welcome</h2>
-      <h2 className="text-4xl md:text-6xl py-5 z-10">I am Ahmad M.</h2>
+      <h1 className="text-4xl md:text-6xl py-5 z-10">I am Ahmad M.</h1>
       <h2 className="text-lg md:text-3xl z-10">
         Based in Los Angeles, California.
       </h2>

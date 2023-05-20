@@ -20,6 +20,8 @@ module.exports = {
       },
       colors: {
         primary: "#20c997",
+        textSecondary: "rgb(150,150,150)",
+        secondary: "#212529",
       },
     },
   },
