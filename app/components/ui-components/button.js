@@ -7,7 +7,7 @@ export default function Button(props) {
           : "bg-primary text-white"
       }`}
     >
-      Hire Me
+      {props.label}
     </div>
   );
 }

@@ -9,7 +9,7 @@ export default function Hero() {
         Based in Los Angeles, California.
       </h2>
       <div className="my-6 z-10">
-        <Button isTransparent={true} />
+        <Button isTransparent label="Hire me" />
       </div>
       <div className="bg-black opacity-60 top-0 left-0 w-screen h-screen absolute"></div>
     </div>
