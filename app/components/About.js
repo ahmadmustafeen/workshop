@@ -16,7 +16,7 @@ function IntroSection(props) {
 
 export default function About() {
   return (
-    <div className="bg-secondary w-full pb-10 md:pb-32">
+    <div className="bg-secondary w-full pb-10 md:pb-24">
       <SectionTitle title="Know Me More" />
       <div className="flex flex-col md:flex-row px-10">
         <div className="w-11/12 mx-auto md:w-3/4 px-3">
