@@ -44,7 +44,6 @@ export default function Home() {
           </a>
         </div>
       </div>
-      {/* ALL OUR WORK IS HER ATM */}
       <div className="hidden lg:block lg:w-1/5"></div>
       <div className="w-full lg:w-4/5">
         <Hero />
