@@ -6,7 +6,7 @@ export default function Hero() {
       <h2 className="text-lg md:text-3xl z-10">Welcome</h2>
       <h1 className="text-4xl md:text-6xl py-5 z-10">I am Ahmad M.</h1>
       <h2 className="text-lg md:text-3xl z-10">
-        Based in Los Angeles, California.
+        Based in Karachi, Pakistan.
       </h2>
       <div className="my-6 z-10">
         <Button isTransparent label="Hire me" />
